@@ -1,0 +1,1046 @@
+Date/Time,Rainfall(mm),Categorized Rainfall ,Temperature(°„C),Categorized Temperature,Wind,Categorized Wind,WaterLevel(m),CategorizedWaterLevel
+1/1/2014,0,No Rain,-27.1,Extreme Cold,               <31,Low,222.501,Low
+1/2/2014,0,No Rain,-25.5,Extreme Cold,               <31,Low,222.484,Low
+1/3/2014,14.7,Light Rain,-15.9,Very Cold,39,Moderate,222.473,Low
+1/4/2014,0.2,Drizzle,-20.5,Extreme Cold,39,Moderate,222.473,Low
+1/5/2014,0,No Rain,-29.4,Extreme Cold,               <31,Low,222.466,Low
+1/6/2014,0,No Rain,-27.9,Extreme Cold,               <31,Low,222.461,Low
+1/7/2014,0,No Rain,-24.2,Extreme Cold,               <31,Low,222.456,Low
+1/8/2014,0,No Rain,-24.1,Extreme Cold,               <31,Low,222.448,Low
+1/9/2014,0,No Rain,-13.1,Very Cold,32,Moderate,222.437,Low
+1/10/2014,0,No Rain,-6.5,Cold,               <31,Low,222.428,Low
+1/11/2014,0.2,Drizzle,-7.1,Cold,               <31,Low,222.415,Low
+1/12/2014,0,No Rain,-2.6,Cold,               <31,Low,222.4,Low
+1/13/2014,0,No Rain,-10.4,Very Cold,               <31,Low,222.388,Low
+1/14/2014,1.5,Drizzle,-15.7,Very Cold,32,Moderate,222.374,Low
+1/15/2014,2.5,Drizzle,-9.7,Very Cold,61,High,222.371,Low
+1/16/2014,0.7,Drizzle,-13.1,Very Cold,54,Moderately High,222.363,Low
+1/17/2014,4.3,Drizzle,-18,Very Cold,               <31,Low,222.348,Low
+1/18/2014,0.2,Drizzle,-7.7,Cold,               <31,Low,222.331,Low
+1/19/2014,0.7,Drizzle,-10.8,Very Cold,               <31,Low,222.323,Low
+1/20/2014,0.2,Drizzle,-23.4,Extreme Cold,37,Moderate,222.319,Low
+1/21/2014,1.2,Drizzle,-21.2,Extreme Cold,32,Moderate,222.303,Low
+1/22/2014,0.2,Drizzle,-22.6,Extreme Cold,35,Moderate,222.286,Low
+1/23/2014,2.4,Drizzle,-17.9,Very Cold,41,Moderate,222.262,Low
+1/24/2014,3.4,Drizzle,-9,Cold,48,Moderately High,222.245,Low
+1/25/2014,0,No Rain,-19.5,Extreme Cold,35,Moderate,222.243,Low
+1/26/2014,1.4,Drizzle,-22.5,Extreme Cold,52,Moderately High,222.232,Low
+1/27/2014,0,No Rain,-26.6,Extreme Cold,33,Moderate,222.209,Low
+1/28/2014,0,No Rain,-21.6,Extreme Cold,               <31,Low,222.179,Low
+1/29/2014,0,No Rain,-15.9,Very Cold,41,Moderate,222.161,Low
+1/30/2014,0,No Rain,-21.5,Extreme Cold,32,Moderate,222.152,Low
+1/31/2014,0,No Rain,-20.1,Extreme Cold,               <31,Low,222.149,Low
+2/1/2014,0,No Rain,-20,Extreme Cold,               <31,Low,222.147,Low
+2/2/2014,0,No Rain,-17.4,Very Cold,               <31,Low,222.138,Low
+2/3/2014,0,No Rain,-15.7,Very Cold,               <31,Low,222.137,Low
+2/4/2014,0,No Rain,-18.5,Very Cold,               <31,Low,222.139,Low
+2/7/2014,0,No Rain,-17.1,Very Cold,               <31,Low,222.136,Low
+2/8/2014,0,No Rain,-19.3,Extreme Cold,               <31,Low,222.14,Low
+2/9/2014,0,No Rain,-23.4,Extreme Cold,               <31,Low,222.141,Low
+2/10/2014,0,No Rain,-22,Extreme Cold,               <31,Low,222.141,Low
+2/11/2014,1.8,Drizzle,-17.9,Very Cold,41,Moderate,222.145,Low
+2/13/2014,4.1,Drizzle,-19.6,Extreme Cold,37,Moderate,222.174,Low
+2/14/2014,0,No Rain,-20.2,Extreme Cold,               <31,Low,222.182,Low
+2/15/2014,0,No Rain,-15.6,Very Cold,33,Moderate,222.188,Low
+2/16/2014,1.2,Drizzle,-15.5,Very Cold,               <31,Low,222.196,Low
+2/17/2014,4.5,Drizzle,-5.1,Cold,               <31,Low,222.201,Low
+2/18/2014,0,No Rain,-4.1,Cold,               <31,Low,222.202,Low
+2/19/2014,0.3,Drizzle,-8.1,Cold,               <31,Low,222.2,Low
+2/20/2014,2.6,Drizzle,-12.2,Very Cold,               <31,Low,222.197,Low
+2/21/2014,0.4,Drizzle,-17,Very Cold,43,Moderate,222.193,Low
+2/22/2014,0.7,Drizzle,-15,Very Cold,41,Moderate,222.185,Low
+2/23/2014,0,No Rain,-16.5,Very Cold,39,Moderate,222.173,Low
+2/24/2014,0,No Rain,-21,Extreme Cold,               <31,Low,222.16,Low
+2/25/2014,0,No Rain,-21.9,Extreme Cold,37,Moderate,222.145,Low
+2/26/2014,0,No Rain,-20.8,Extreme Cold,52,Moderately High,222.127,Low
+2/27/2014,0,No Rain,-24.7,Extreme Cold,               <31,Low,222.115,Low
+2/28/2014,2,Drizzle,-22.3,Extreme Cold,35,Moderate,222.11,Low
+3/1/2014,0,No Rain,-28.4,Extreme Cold,               <31,Low,222.106,Low
+3/2/2014,0,No Rain,-23,Extreme Cold,               <31,Low,222.1,Low
+3/3/2014,0,No Rain,-21.6,Extreme Cold,               <31,Low,222.096,Low
+3/4/2014,0,No Rain,-19.2,Extreme Cold,               <31,Low,222.095,Low
+3/5/2014,2,Drizzle,-12.6,Very Cold,32,Moderate,222.098,Low
+3/6/2014,10.7,Light Rain,-6.5,Cold,               <31,Low,222.109,Low
+3/7/2014,0,No Rain,-13,Very Cold,33,Moderate,222.122,Low
+3/8/2014,0.2,Drizzle,-12.1,Very Cold,               <31,Low,222.127,Low
+3/9/2014,0,No Rain,-2.4,Cold,               <31,Low,222.127,Low
+3/10/2014,0,No Rain,-0.2,Cold,               <31,Low,222.129,Low
+3/11/2014,0,No Rain,-10.3,Very Cold,32,Moderate,222.132,Low
+3/12/2014,0,No Rain,-11.9,Very Cold,32,Moderate,222.123,Low
+3/13/2014,0,No Rain,-0.9,Cold,               <31,Low,222.115,Low
+3/14/2014,0,No Rain,-7.8,Cold,43,Moderate,222.105,Low
+3/15/2014,0,No Rain,-19,Very Cold,               <31,Low,222.084,Low
+3/16/2014,7.8,Drizzle,-11.5,Very Cold,35,Moderate,222.073,Low
+3/17/2014,0,No Rain,-4,Cold,               <31,Low,222.08,Low
+3/18/2014,0.2,Drizzle,-4.1,Cold,               <31,Low,222.085,Low
+3/19/2014,0,No Rain,-1.4,Cold,               <31,Low,222.094,Low
+3/20/2014,0,No Rain,-2.7,Cold,               <31,Low,222.091,Low
+3/21/2014,0,No Rain,-9.6,Very Cold,46,Moderately High,222.072,Low
+3/22/2014,0.2,Drizzle,-15.6,Very Cold,               <31,Low,222.059,Low
+3/23/2014,0,No Rain,-16,Very Cold,               <31,Low,222.063,Low
+3/24/2014,0,No Rain,-11.5,Very Cold,41,Moderate,222.081,Low
+3/25/2014,0,No Rain,-12.2,Very Cold,               <31,Low,222.11,Low
+3/26/2014,0,No Rain,-7.5,Cold,               <31,Low,222.147,Low
+3/27/2014,0,No Rain,-9.1,Very Cold,39,Moderate,222.184,Low
+3/28/2014,0,No Rain,-9.7,Very Cold,               <31,Low,222.214,Low
+3/29/2014,0,No Rain,-2.4,Cold,41,Moderate,222.241,Low
+3/30/2014,0,No Rain,-4.2,Cold,43,Moderate,222.268,Low
+3/31/2014,0,No Rain,-10.3,Very Cold,46,Moderately High,222.383,Low
+4/1/2014,0,No Rain,-9.6,Very Cold,32,Moderate,222.527,Low
+4/2/2014,0,No Rain,-7.4,Cold,               <31,Low,222.451,Low
+4/3/2014,4.6,Drizzle,-2.7,Cold,               <31,Low,222.415,Low
+4/4/2014,0.2,Drizzle,-0.5,Cold,               <31,Low,222.404,Low
+4/5/2014,0,No Rain,2.1,Neutral,32,Moderate,222.399,Low
+4/6/2014,0.2,Drizzle,1.9,Neutral,               <31,Low,222.386,Low
+4/7/2014,0,No Rain,0.2,Cold,               <31,Low,222.367,Low
+4/8/2014,0.2,Drizzle,2,Neutral,               <31,Low,222.364,Low
+4/9/2014,0,No Rain,6.9,Neutral,44,Moderate,222.405,Low
+4/10/2014,0,No Rain,5.3,Neutral,33,Moderate,222.47,Low
+4/11/2014,0,No Rain,-0.6,Cold,               <31,Low,222.613,Low
+4/12/2014,5.9,Drizzle,-1.7,Cold,39,Moderate,223.133,Moderate
+4/13/2014,0,No Rain,-4.7,Cold,41,Moderate,224.052,Moderately High
+4/14/2014,0,No Rain,-9.4,Very Cold,35,Moderate,224.787,Moderately High
+4/15/2014,0.2,Drizzle,-7.2,Cold,               <31,Low,225.287,High
+4/16/2014,0,No Rain,-3.8,Cold,               <31,Low,225.631,High
+4/17/2014,0,No Rain,-4.1,Cold,               <31,Low,225.92,High
+4/18/2014,1,Drizzle,1.1,Neutral,39,Moderate,226.184,Very High
+4/19/2014,1.7,Drizzle,7.2,Neutral,43,Moderate,226.528,Very High
+4/20/2014,0.5,Drizzle,6.3,Neutral,35,Moderate,227.004,Very High
+4/21/2014,0.2,Drizzle,4.9,Neutral,39,Moderate,227.183,Very High
+4/22/2014,0,No Rain,7.3,Neutral,               <31,Low,227.403,Very High
+4/23/2014,4.5,Drizzle,8.3,Neutral,37,Moderate,227.286,Very High
+4/24/2014,12.5,Light Rain,2.7,Neutral,               <31,Low,227.224,Very High
+4/25/2014,2.7,Drizzle,4.7,Neutral,               <31,Low,227.106,Very High
+4/26/2014,0.2,Drizzle,5.8,Neutral,               <31,Low,226.98,Very High
+4/27/2014,0,No Rain,6.3,Neutral,44,Moderate,226.838,Very High
+4/28/2014,9.6,Drizzle,5.2,Neutral,39,Moderate,226.431,Very High
+4/29/2014,0,No Rain,6.6,Neutral,41,Moderate,226.188,Very High
+4/30/2014,1.6,Drizzle,5.3,Neutral,35,Moderate,226.064,Very High
+5/1/2014,0.2,Drizzle,9,Neutral,32,Moderate,226.002,Very High
+5/2/2014,2.1,Drizzle,7.3,Neutral,37,Moderate,226.007,Very High
+5/3/2014,0.9,Drizzle,4.4,Neutral,41,Moderate,226.077,Very High
+5/4/2014,0.3,Drizzle,4.1,Neutral,               <31,Low,226.184,Very High
+5/5/2014,0,No Rain,7.4,Neutral,               <31,Low,226.271,Very High
+5/6/2014,0,No Rain,8.7,Neutral,               <31,Low,226.318,Very High
+5/7/2014,3.4,Drizzle,10.7,Neutral,               <31,Low,226.341,Very High
+5/8/2014,1.3,Drizzle,7.7,Neutral,41,Moderate,226.347,Very High
+5/9/2014,0,No Rain,10.6,Neutral,37,Moderate,226.33,Very High
+5/10/2014,0,No Rain,14.8,Warm,               <31,Low,226.306,Very High
+5/11/2014,0,No Rain,14.7,Warm,35,Moderate,226.277,Very High
+5/12/2014,6.1,Drizzle,7,Neutral,37,Moderate,226.223,Very High
+5/13/2014,0.6,Drizzle,5.6,Neutral,41,Moderate,226.154,Very High
+5/14/2014,0.5,Drizzle,2.9,Neutral,32,Moderate,226.093,Very High
+5/15/2014,0,No Rain,6.9,Neutral,               <31,Low,226.046,Very High
+5/16/2014,0,No Rain,9.7,Neutral,               <31,Low,226,Very High
+5/17/2014,0,No Rain,12.2,Warm,               <31,Low,225.968,High
+5/18/2014,0,No Rain,11.3,Warm,               <31,Low,225.949,High
+5/19/2014,10.4,Light Rain,11.4,Warm,32,Moderate,225.947,High
+5/20/2014,1.7,Drizzle,10.6,Neutral,35,Moderate,225.942,High
+5/21/2014,0,No Rain,9.9,Neutral,               <31,Low,225.896,High
+5/22/2014,0,No Rain,13.5,Warm,               <31,Low,225.837,High
+5/23/2014,0,No Rain,21.2,Hot,               <31,Low,225.779,High
+5/24/2014,4.4,Drizzle,24.5,Hot,35,Moderate,225.77,High
+5/25/2014,8,Drizzle,16.9,Warm,35,Moderate,225.766,High
+5/26/2014,0.2,Drizzle,14.3,Warm,               <31,Low,225.722,High
+5/27/2014,0.2,Drizzle,20.3,Warm,               <31,Low,225.671,High
+5/28/2014,0,No Rain,21.4,Hot,               <31,Low,225.593,High
+5/29/2014,0,No Rain,23.6,Hot,32,Moderate,225.506,High
+5/30/2014,0,No Rain,23.5,Hot,               <31,Low,225.402,High
+5/31/2014,0,No Rain,22.1,Hot,               <31,Low,225.313,High
+6/1/2014,0.2,Drizzle,21.1,Hot,35,Moderate,225.227,High
+6/2/2014,4,Drizzle,15.4,Warm,               <31,Low,225.155,High
+6/3/2014,0,No Rain,19.1,Warm,               <31,Low,225.083,High
+6/4/2014,4.4,Drizzle,20.2,Warm,33,Moderate,225.029,High
+6/5/2014,0,No Rain,21.4,Hot,               <31,Low,225,High
+6/7/2014,0,No Rain,14.1,Warm,33,Moderate,225.028,High
+6/8/2014,0.6,Drizzle,16.2,Warm,               <31,Low,225.089,High
+6/9/2014,2.8,Drizzle,15.2,Warm,               <31,Low,225.141,High
+6/10/2014,0,No Rain,20.8,Warm,46,Moderately High,225.163,High
+6/11/2014,0,No Rain,15.6,Warm,33,Moderate,225.162,High
+6/12/2014,0,No Rain,15,Warm,41,Moderate,225.143,High
+6/13/2014,0.7,Drizzle,16.9,Warm,               <31,Low,225.111,High
+6/14/2014,26,Moderate Rain,14.3,Warm,33,Moderate,225.088,High
+6/15/2014,44.9,Violent Rain,13.1,Warm,               <31,Low,225.203,High
+6/16/2014,0.7,Drizzle,16.3,Warm,               <31,Low,225.323,High
+6/17/2014,0,No Rain,15.4,Warm,               <31,Low,225.368,High
+6/18/2014,0,No Rain,19.2,Warm,33,Moderate,225.452,High
+6/19/2014,24,Moderate Rain,16.8,Warm,32,Moderate,225.59,High
+6/20/2014,1.2,Drizzle,17.2,Warm,               <31,Low,225.804,High
+6/21/2014,5.9,Drizzle,21.7,Hot,33,Moderate,225.95,High
+6/22/2014,0.9,Drizzle,19.9,Warm,33,Moderate,226.084,Very High
+6/23/2014,1.2,Drizzle,19.4,Warm,35,Moderate,226.203,Very High
+6/24/2014,0,No Rain,15.6,Warm,               <31,Low,226.345,Very High
+6/25/2014,0.3,Drizzle,17.2,Warm,               <31,Low,226.476,Very High
+6/26/2014,0.3,Drizzle,18.4,Warm,               <31,Low,226.563,Very High
+6/27/2014,10.3,Light Rain,23.6,Hot,41,Moderate,226.604,Very High
+6/28/2014,15.7,Light Rain,22.5,Hot,37,Moderate,226.701,Very High
+6/29/2014,22.5,Moderate Rain,19.4,Warm,61,High,226.842,Very High
+6/30/2014,3.7,Drizzle,17.5,Warm,37,Moderate,226.996,Very High
+7/1/2014,2.3,Drizzle,14.3,Warm,46,Moderately High,227.093,Very High
+7/2/2014,0.2,Drizzle,16.8,Warm,               <31,Low,227.126,Very High
+7/3/2014,0.2,Drizzle,19.6,Warm,               <31,Low,227.078,Very High
+7/4/2014,0.9,Drizzle,19.8,Warm,               <31,Low,227.037,Very High
+7/5/2014,0.4,Drizzle,26.2,Hot,               <31,Low,226.961,Very High
+7/6/2014,0,No Rain,23.8,Hot,37,Moderate,226.897,Very High
+7/7/2014,0.9,Drizzle,20.5,Warm,48,Moderately High,226.882,Very High
+7/8/2014,0,No Rain,18,Warm,35,Moderate,226.924,Very High
+7/9/2014,0,No Rain,18.1,Warm,               <31,Low,226.847,Very High
+7/10/2014,0,No Rain,21.2,Hot,32,Moderate,226.726,Very High
+7/11/2014,0,No Rain,23.1,Hot,35,Moderate,226.642,Very High
+7/12/2014,2.6,Drizzle,20.1,Warm,46,Moderately High,226.596,Very High
+7/13/2014,4.7,Drizzle,12.9,Warm,39,Moderate,226.525,Very High
+7/14/2014,0.8,Drizzle,14.5,Warm,39,Moderate,226.406,Very High
+7/15/2014,0.2,Drizzle,16.7,Warm,               <31,Low,226.232,Very High
+7/16/2014,0.9,Drizzle,19.2,Warm,               <31,Low,226.064,Very High
+7/17/2014,0,No Rain,21.7,Hot,33,Moderate,225.929,High
+7/18/2014,9.4,Drizzle,22.8,Hot,39,Moderate,225.792,High
+7/19/2014,0.5,Drizzle,21.4,Hot,               <31,Low,225.666,High
+7/20/2014,0.3,Drizzle,25.7,Hot,32,Moderate,225.521,High
+7/21/2014,5.1,Drizzle,23.1,Hot,               <31,Low,225.382,High
+7/22/2014,0.5,Drizzle,20.7,Warm,               <31,Low,225.244,High
+7/23/2014,0.2,Drizzle,18.4,Warm,               <31,Low,225.116,High
+7/24/2014,0.5,Drizzle,19,Warm,               <31,Low,225.102,High
+7/25/2014,0.2,Drizzle,22.8,Hot,33,Moderate,225.185,High
+7/26/2014,1.8,Drizzle,19.1,Warm,32,Moderate,225.289,High
+7/27/2014,0.7,Drizzle,18.6,Warm,33,Moderate,225.391,High
+7/28/2014,1.2,Drizzle,19.3,Warm,               <31,Low,225.454,High
+7/29/2014,0.9,Drizzle,21.1,Hot,               <31,Low,225.461,High
+8/27/2014,0,No Rain,16.5,Warm,               <31,Low,224.076,Moderately High
+8/28/2014,0,No Rain,21.4,Hot,               <31,Low,224.104,Moderately High
+8/29/2014,8.4,Drizzle,16.3,Warm,35,Moderate,224.132,Moderately High
+8/30/2014,0,No Rain,15.3,Warm,               <31,Low,224.223,Moderately High
+8/31/2014,17.4,Light Rain,15.9,Warm,               <31,Low,224.301,Moderately High
+9/1/2014,0,No Rain,18.1,Warm,               <31,Low,224.297,Moderately High
+9/2/2014,1.4,Drizzle,17.3,Warm,               <31,Low,224.287,Moderately High
+9/3/2014,0,No Rain,17.4,Warm,               <31,Low,224.289,Moderately High
+9/4/2014,13.6,Light Rain,14.6,Warm,46,Moderately High,224.306,Moderately High
+9/5/2014,2.4,Drizzle,15,Warm,44,Moderate,224.309,Moderately High
+9/6/2014,0,No Rain,16.9,Warm,33,Moderate,224.291,Moderately High
+9/7/2014,0,No Rain,17.2,Warm,               <31,Low,224.266,Moderately High
+9/8/2014,0.3,Drizzle,15.5,Warm,37,Moderate,224.245,Moderately High
+9/9/2014,0,No Rain,9.2,Neutral,37,Moderate,224.243,Moderately High
+9/10/2014,0,No Rain,8.2,Neutral,35,Moderate,224.275,Moderately High
+9/11/2014,0.2,Drizzle,9.3,Neutral,35,Moderate,224.33,Moderately High
+9/12/2014,0,No Rain,9.7,Neutral,32,Moderate,224.357,Moderately High
+9/13/2014,0,No Rain,10.6,Neutral,               <31,Low,224.344,Moderately High
+9/14/2014,0.4,Drizzle,10.2,Neutral,               <31,Low,224.294,Moderately High
+9/15/2014,0,No Rain,12.4,Warm,               <31,Low,224.239,Moderately High
+9/16/2014,0,No Rain,14.6,Warm,               <31,Low,224.189,Moderately High
+9/17/2014,0,No Rain,7.8,Neutral,               <31,Low,224.142,Moderately High
+9/18/2014,0,No Rain,11.6,Warm,37,Moderate,224.1,Moderately High
+9/19/2014,4.6,Drizzle,16.3,Warm,33,Moderate,224.065,Moderately High
+9/20/2014,12.4,Light Rain,11.8,Warm,               <31,Low,224.054,Moderately High
+9/21/2014,0.2,Drizzle,14.3,Warm,               <31,Low,224.031,Moderately High
+9/22/2014,0,No Rain,18,Warm,               <31,Low,223.992,Moderate
+9/23/2014,0,No Rain,18.6,Warm,               <31,Low,223.959,Moderate
+9/24/2014,0,No Rain,16.9,Warm,               <31,Low,223.934,Moderate
+9/25/2014,0,No Rain,20.7,Warm,               <31,Low,223.917,Moderate
+9/26/2014,0,No Rain,23.4,Hot,35,Moderate,223.885,Moderate
+9/27/2014,0,No Rain,19.2,Warm,33,Moderate,223.84,Moderate
+9/28/2014,7.4,Drizzle,10.7,Neutral,32,Moderate,223.812,Moderate
+9/29/2014,0.3,Drizzle,8.4,Neutral,               <31,Low,223.762,Moderate
+9/30/2014,1.7,Drizzle,10.7,Neutral,               <31,Low,223.715,Moderate
+10/1/2014,0.2,Drizzle,14.2,Warm,43,Moderate,223.689,Moderate
+10/2/2014,0.4,Drizzle,12.1,Warm,41,Moderate,223.681,Moderate
+10/3/2014,2.3,Drizzle,5.1,Neutral,44,Moderate,223.735,Moderate
+10/4/2014,0.4,Drizzle,4.5,Neutral,39,Moderate,223.737,Moderate
+10/5/2014,0,No Rain,4.5,Neutral,44,Moderate,223.705,Moderate
+10/6/2014,0,No Rain,4.4,Neutral,37,Moderate,223.675,Moderate
+10/7/2014,0.4,Drizzle,3.9,Neutral,35,Moderate,223.679,Moderate
+10/8/2014,0,No Rain,4.3,Neutral,32,Moderate,223.707,Moderate
+10/9/2014,0,No Rain,4.3,Neutral,               <31,Low,223.698,Moderate
+10/10/2014,0,No Rain,5.8,Neutral,               <31,Low,223.719,Moderate
+10/11/2014,0,No Rain,10.5,Neutral,41,Moderate,223.787,Moderate
+10/12/2014,0.9,Drizzle,11.8,Warm,               <31,Low,223.825,Moderate
+10/13/2014,0,No Rain,12,Warm,               <31,Low,223.774,Moderate
+10/14/2014,0,No Rain,11,Warm,               <31,Low,223.741,Moderate
+10/15/2014,0,No Rain,15.8,Warm,35,Moderate,223.669,Moderate
+10/16/2014,0,No Rain,11.8,Warm,48,Moderately High,223.566,Moderate
+10/17/2014,0,No Rain,5.5,Neutral,41,Moderate,223.473,Moderate
+10/18/2014,0,No Rain,4.9,Neutral,33,Moderate,223.407,Moderate
+10/19/2014,0,No Rain,10.9,Neutral,               <31,Low,223.335,Moderate
+10/20/2014,0,No Rain,8.4,Neutral,               <31,Low,223.282,Moderate
+10/21/2014,0,No Rain,10.4,Neutral,32,Moderate,223.232,Moderate
+10/22/2014,2.1,Drizzle,14,Warm,39,Moderate,223.203,Moderate
+10/23/2014,0,No Rain,13.8,Warm,               <31,Low,223.178,Moderate
+10/24/2014,0,No Rain,15,Warm,41,Moderate,223.132,Moderate
+10/25/2014,0,No Rain,8.8,Neutral,41,Moderate,223.089,Moderate
+10/26/2014,0,No Rain,7.1,Neutral,39,Moderate,223.065,Moderate
+10/27/2014,0,No Rain,5.7,Neutral,               <31,Low,223.037,Moderate
+10/28/2014,0.4,Drizzle,3.1,Neutral,41,Moderate,223.012,Moderate
+10/29/2014,0,No Rain,2.3,Neutral,               <31,Low,222.998,Low
+10/30/2014,0,No Rain,-0.3,Cold,43,Moderate,222.981,Low
+10/31/2014,0,No Rain,-1,Cold,               <31,Low,222.973,Low
+11/1/2014,0.2,Drizzle,4.4,Neutral,43,Moderate,222.95,Low
+11/2/2014,0,No Rain,5.4,Neutral,               <31,Low,222.938,Low
+11/3/2014,0,No Rain,5.3,Neutral,               <31,Low,222.929,Low
+11/4/2014,0.2,Drizzle,2.7,Neutral,35,Moderate,222.911,Low
+11/5/2014,0,No Rain,1.4,Neutral,               <31,Low,222.911,Low
+11/6/2014,0,No Rain,0.8,Cold,               <31,Low,222.909,Low
+11/7/2014,2,Drizzle,3.9,Neutral,52,Moderately High,222.903,Low
+11/8/2014,0.2,Drizzle,-2.7,Cold,44,Moderate,222.898,Low
+11/9/2014,0,No Rain,-6.5,Cold,               <31,Low,222.888,Low
+11/10/2014,0.2,Drizzle,-7.5,Cold,32,Moderate,222.883,Low
+11/11/2014,0.2,Drizzle,-8.2,Cold,32,Moderate,222.861,Low
+11/12/2014,0.5,Drizzle,-7.3,Cold,37,Moderate,222.843,Low
+11/13/2014,0,No Rain,-9.1,Very Cold,               <31,Low,222.717,Low
+11/14/2014,0.2,Drizzle,-10.9,Very Cold,               <31,Low,222.747,Low
+11/15/2014,0,No Rain,-11.9,Very Cold,               <31,Low,222.714,Low
+11/16/2014,2.1,Drizzle,-9.9,Very Cold,48,Moderately High,222.692,Low
+11/17/2014,0.5,Drizzle,-11,Very Cold,35,Moderate,222.741,Low
+11/18/2014,0.5,Drizzle,-9.9,Very Cold,               <31,Low,222.701,Low
+11/19/2014,0.2,Drizzle,-10.5,Very Cold,48,Moderately High,222.637,Low
+11/20/2014,0.2,Drizzle,-13.1,Very Cold,               <31,Low,222.622,Low
+11/21/2014,0,No Rain,-3.5,Cold,33,Moderate,222.57,Low
+11/22/2014,0.5,Drizzle,-1.3,Cold,               <31,Low,222.466,Low
+11/23/2014,0,No Rain,-4.9,Cold,37,Moderate,222.463,Low
+11/24/2014,0,No Rain,-13.4,Very Cold,35,Moderate,222.713,Low
+11/25/2014,0.6,Drizzle,-15.7,Very Cold,32,Moderate,222.852,Low
+11/26/2014,0.2,Drizzle,-21.4,Extreme Cold,               <31,Low,222.948,Low
+11/27/2014,0,No Rain,-19.3,Extreme Cold,               <31,Low,223.04,Moderate
+11/28/2014,0,No Rain,-13.4,Very Cold,               <31,Low,223.083,Moderate
+11/29/2014,10.2,Light Rain,-13.4,Very Cold,35,Moderate,223.069,Moderate
+11/30/2014,0,No Rain,-20.8,Extreme Cold,41,Moderate,223.036,Moderate
+12/1/2014,0,No Rain,-21,Extreme Cold,39,Moderate,223.026,Moderate
+12/2/2014,0,No Rain,-13.9,Very Cold,               <31,Low,223.029,Moderate
+12/3/2014,0,No Rain,-13.7,Very Cold,               <31,Low,223.017,Moderate
+12/4/2014,0,No Rain,-9.9,Very Cold,               <31,Low,222.998,Low
+12/5/2014,0,No Rain,-10.5,Very Cold,               <31,Low,222.97,Low
+12/6/2014,0,No Rain,-10.4,Very Cold,               <31,Low,222.945,Low
+12/7/2014,0.4,Drizzle,-2.7,Cold,               <31,Low,222.93,Low
+12/8/2014,0.9,Drizzle,-9.9,Very Cold,35,Moderate,222.912,Low
+12/10/2014,0.7,Drizzle,-3.9,Cold,41,Moderate,222.873,Low
+12/11/2014,0.2,Drizzle,-1.6,Cold,32,Moderate,222.864,Low
+12/12/2014,0,No Rain,0.5,Cold,35,Moderate,222.863,Low
+12/13/2014,0,No Rain,0.6,Cold,               <31,Low,222.863,Low
+12/14/2014,0.7,Drizzle,-0.7,Cold,               <31,Low,222.857,Low
+12/15/2014,0.2,Drizzle,-8.2,Cold,44,Moderate,222.843,Low
+12/16/2014,0,No Rain,-14.7,Very Cold,               <31,Low,222.817,Low
+12/17/2014,0.2,Drizzle,-13.2,Very Cold,               <31,Low,222.795,Low
+12/18/2014,0,No Rain,-10.5,Very Cold,               <31,Low,222.78,Low
+12/19/2014,0.8,Drizzle,-4.6,Cold,               <31,Low,222.764,Low
+12/20/2014,0.4,Drizzle,-2.3,Cold,               <31,Low,222.76,Low
+12/21/2014,0.4,Drizzle,-0.8,Cold,               <31,Low,222.767,Low
+12/22/2014,0.5,Drizzle,0.4,Cold,               <31,Low,222.777,Low
+12/23/2014,0,No Rain,-0.6,Cold,               <31,Low,222.783,Low
+12/24/2014,0.7,Drizzle,-2.1,Cold,               <31,Low,222.783,Low
+12/25/2014,0.4,Drizzle,-2.7,Cold,               <31,Low,222.774,Low
+12/26/2014,0.4,Drizzle,-10.6,Very Cold,               <31,Low,222.755,Low
+12/27/2014,0.4,Drizzle,-17.2,Very Cold,               <31,Low,222.734,Low
+12/28/2014,0,No Rain,-23.6,Extreme Cold,               <31,Low,222.742,Low
+12/29/2014,0,No Rain,-23.6,Extreme Cold,               <31,Low,222.766,Low
+12/30/2014,0.4,Drizzle,-20.3,Extreme Cold,37,Moderate,222.8,Low
+12/31/2014,0,No Rain,-10.3,Very Cold,35,Moderate,222.87,Low
+1/1/2015,0,No Rain,-11.7,Very Cold,41,Moderate,222.858,Low
+1/2/2015,5,Drizzle,-16.5,Very Cold,35,Moderate,222.849,Low
+1/3/2015,2.2,Drizzle,-23.2,Extreme Cold,41,Moderate,222.852,Low
+1/4/2015,0,No Rain,-27.6,Extreme Cold,               <31,Low,222.88,Low
+1/5/2015,0,No Rain,-22,Extreme Cold,               <31,Low,222.867,Low
+1/6/2015,0,No Rain,-20.2,Extreme Cold,44,Moderate,222.865,Low
+1/7/2015,0,No Rain,-21.1,Extreme Cold,               <31,Low,222.859,Low
+1/8/2015,3.6,Drizzle,-17.3,Very Cold,43,Moderate,222.844,Low
+1/9/2015,0.2,Drizzle,-18.1,Very Cold,32,Moderate,222.826,Low
+1/10/2015,0.2,Drizzle,-20.2,Extreme Cold,               <31,Low,222.811,Low
+1/11/2015,0.2,Drizzle,-20.3,Extreme Cold,               <31,Low,222.769,Low
+1/12/2015,0,No Rain,-23.8,Extreme Cold,               <31,Low,222.736,Low
+1/14/2015,3.1,Drizzle,-5.6,Cold,48,Moderately High,222.681,Low
+1/15/2015,0,No Rain,-8.1,Cold,61,High,222.643,Low
+1/16/2015,0,No Rain,-11.4,Very Cold,54,Moderately High,222.613,Low
+1/17/2015,1.1,Drizzle,-2.5,Cold,54,Moderately High,222.585,Low
+1/18/2015,0,No Rain,-5.9,Cold,54,Moderately High,222.566,Low
+1/19/2015,0,No Rain,-7.2,Cold,41,Moderate,222.552,Low
+1/20/2015,0,No Rain,-6.5,Cold,46,Moderately High,222.534,Low
+1/21/2015,0,No Rain,-13,Very Cold,50,Moderately High,222.519,Low
+1/22/2015,0,No Rain,-3,Cold,87,Extreme,222.509,Low
+1/23/2015,0,No Rain,2.6,Neutral,54,Moderately High,222.515,Low
+1/24/2015,0,No Rain,-5,Cold,56,Moderately High,222.528,Low
+1/25/2015,0,No Rain,-6.3,Cold,59,High,222.533,Low
+1/26/2015,0,No Rain,-1.1,Cold,65,High,222.537,Low
+1/27/2015,0,No Rain,-2.8,Cold,35,Moderate,222.543,Low
+1/28/2015,0.8,Drizzle,-4.8,Cold,70,High,222.546,Low
+1/29/2015,0,No Rain,-13.2,Very Cold,72,Extreme,222.543,Low
+1/30/2015,0.8,Drizzle,-11.6,Very Cold,83,Extreme,222.525,Low
+1/31/2015,0,No Rain,-19.4,Extreme Cold,69,High,222.515,Low
+2/1/2015,0,No Rain,-23,Extreme Cold,48,Moderately High,222.504,Low
+2/2/2015,0,No Rain,-16.1,Very Cold,48,Moderately High,222.504,Low
+2/3/2015,0.2,Drizzle,-14.4,Very Cold,52,Moderately High,222.512,Low
+2/5/2015,0,No Rain,-12.5,Very Cold,35,Moderate,222.531,Low
+2/6/2015,0.7,Drizzle,-15.6,Very Cold,               <31,Low,222.547,Low
+2/7/2015,0,No Rain,-12.6,Very Cold,               <31,Low,222.561,Low
+2/8/2015,0.2,Drizzle,-18.3,Very Cold,               <31,Low,222.566,Low
+2/9/2015,0,No Rain,-14.9,Very Cold,               <31,Low,222.564,Low
+2/10/2015,5.7,Drizzle,-10,Very Cold,37,Moderate,222.563,Low
+2/11/2015,0,No Rain,-19.9,Extreme Cold,37,Moderate,222.565,Low
+2/12/2015,0,No Rain,-19.7,Extreme Cold,35,Moderate,222.559,Low
+2/13/2015,0,No Rain,-17.2,Very Cold,41,Moderate,222.552,Low
+2/14/2015,0,No Rain,-25.3,Extreme Cold,33,Moderate,222.549,Low
+2/15/2015,0.2,Drizzle,-18,Very Cold,33,Moderate,222.539,Low
+2/16/2015,0,No Rain,-16,Very Cold,32,Moderate,222.532,Low
+2/17/2015,0,No Rain,-21,Extreme Cold,33,Moderate,222.53,Low
+2/18/2015,0,No Rain,-23.9,Extreme Cold,               <31,Low,222.523,Low
+2/19/2015,0.4,Drizzle,-20.6,Extreme Cold,               <31,Low,222.518,Low
+2/20/2015,1.4,Drizzle,-14.6,Very Cold,               <31,Low,222.52,Low
+2/21/2015,0,No Rain,-23.3,Extreme Cold,32,Moderate,222.527,Low
+2/22/2015,0,No Rain,-25.5,Extreme Cold,               <31,Low,222.526,Low
+2/23/2015,0.4,Drizzle,-13.6,Very Cold,44,Moderate,222.519,Low
+2/24/2015,0.2,Drizzle,-11.1,Very Cold,50,Moderately High,222.521,Low
+2/25/2015,0,No Rain,-20.5,Extreme Cold,               <31,Low,222.522,Low
+2/26/2015,0,No Rain,-18.7,Very Cold,               <31,Low,222.515,Low
+2/27/2015,0,No Rain,-16.1,Very Cold,               <31,Low,222.503,Low
+2/28/2015,0,No Rain,-12.3,Very Cold,               <31,Low,222.494,Low
+3/1/2015,0,No Rain,-11.5,Very Cold,               <31,Low,222.491,Low
+3/2/2015,0,No Rain,-11,Very Cold,39,Moderate,222.494,Low
+3/3/2015,0.4,Drizzle,-12.9,Very Cold,43,Moderate,222.501,Low
+3/4/2015,0,No Rain,-20.8,Extreme Cold,               <31,Low,222.501,Low
+3/5/2015,0,No Rain,-14.8,Very Cold,33,Moderate,222.494,Low
+3/6/2015,3.5,Drizzle,-4.6,Cold,35,Moderate,222.493,Low
+3/7/2015,1,Drizzle,-5.5,Cold,35,Moderate,222.504,Low
+3/8/2015,0,No Rain,-0.8,Cold,               <31,Low,222.52,Low
+3/9/2015,0,No Rain,0.8,Cold,               <31,Low,222.536,Low
+3/10/2015,0,No Rain,5.2,Neutral,32,Moderate,222.559,Low
+3/11/2015,0,No Rain,-0.2,Cold,               <31,Low,222.558,Low
+3/12/2015,0,No Rain,4.9,Neutral,               <31,Low,222.538,Low
+3/13/2015,0.8,Drizzle,4.9,Neutral,               <31,Low,222.532,Low
+3/14/2015,0,No Rain,6,Neutral,               <31,Low,222.509,Low
+3/15/2015,0,No Rain,10.4,Neutral,44,Moderate,222.583,Low
+3/16/2015,0,No Rain,1.3,Neutral,33,Moderate,222.709,Low
+3/17/2015,0,No Rain,0.7,Cold,33,Moderate,222.878,Low
+3/18/2015,0,No Rain,1.2,Neutral,               <31,Low,223.149,Moderate
+3/19/2015,0,No Rain,4.1,Neutral,32,Moderate,223.413,Moderate
+3/20/2015,0,No Rain,-7,Cold,32,Moderate,223.631,Moderate
+3/21/2015,0.2,Drizzle,-8.4,Cold,               <31,Low,223.906,Moderate
+3/22/2015,0,No Rain,-3.6,Cold,               <31,Low,224.037,Moderately High
+3/23/2015,2.9,Drizzle,-1.1,Cold,               <31,Low,224.021,Moderately High
+3/24/2015,7.7,Drizzle,1.7,Neutral,               <31,Low,223.993,Moderate
+3/25/2015,5.8,Drizzle,-1.5,Cold,43,Moderate,223.968,Moderate
+3/26/2015,0.3,Drizzle,-5.5,Cold,               <31,Low,223.897,Moderate
+3/27/2015,0.2,Drizzle,-4.5,Cold,               <31,Low,223.818,Moderate
+3/28/2015,0,No Rain,1.7,Neutral,43,Moderate,223.709,Moderate
+3/29/2015,0.6,Drizzle,6.8,Neutral,41,Moderate,223.639,Moderate
+3/30/2015,0.7,Drizzle,5.7,Neutral,               <31,Low,223.606,Moderate
+3/31/2015,0,No Rain,5.9,Neutral,               <31,Low,223.601,Moderate
+4/1/2015,0,No Rain,10,Neutral,37,Moderate,223.567,Moderate
+4/2/2015,2.8,Drizzle,-1.9,Cold,41,Moderate,223.575,Moderate
+4/3/2015,0.2,Drizzle,-6.5,Cold,               <31,Low,223.688,Moderate
+4/4/2015,0.2,Drizzle,-5.9,Cold,               <31,Low,223.704,Moderate
+4/5/2015,0,No Rain,-5.7,Cold,               <31,Low,223.686,Moderate
+4/6/2015,0,No Rain,0.1,Cold,               <31,Low,223.676,Moderate
+4/7/2015,0.9,Drizzle,1.5,Neutral,35,Moderate,223.602,Moderate
+4/8/2015,0,No Rain,5.1,Neutral,               <31,Low,223.541,Moderate
+4/9/2015,0.4,Drizzle,7,Neutral,46,Moderately High,223.79,Moderate
+4/10/2015,0,No Rain,5.9,Neutral,               <31,Low,223.554,Moderate
+4/11/2015,0,No Rain,11.5,Warm,35,Moderate,223.58,Moderate
+4/12/2015,1.1,Drizzle,11.7,Warm,41,Moderate,223.687,Moderate
+4/13/2015,0,No Rain,8.9,Neutral,41,Moderate,223.707,Moderate
+4/14/2015,0,No Rain,11.8,Warm,35,Moderate,223.7,Moderate
+4/15/2015,0,No Rain,18.3,Warm,52,Moderately High,223.727,Moderate
+4/16/2015,0,No Rain,11.6,Warm,               <31,Low,223.807,Moderate
+4/17/2015,0,No Rain,11.7,Warm,46,Moderately High,223.865,Moderate
+4/18/2015,0,No Rain,10.2,Neutral,32,Moderate,223.853,Moderate
+4/19/2015,13.3,Light Rain,6.2,Neutral,44,Moderate,223.835,Moderate
+4/20/2015,1.4,Drizzle,0.7,Cold,50,Moderately High,223.81,Moderate
+4/21/2015,0.7,Drizzle,1.8,Neutral,52,Moderately High,223.789,Moderate
+4/22/2015,0,No Rain,1.2,Neutral,35,Moderate,223.785,Moderate
+4/23/2015,0,No Rain,1.6,Neutral,               <31,Low,223.783,Moderate
+4/24/2015,0,No Rain,7.9,Neutral,               <31,Low,223.785,Moderate
+4/25/2015,0,No Rain,9.7,Neutral,               <31,Low,223.788,Moderate
+4/26/2015,0,No Rain,12.2,Warm,               <31,Low,223.794,Moderate
+4/27/2015,1,Drizzle,10,Neutral,               <31,Low,223.804,Moderate
+4/28/2015,0,No Rain,10,Neutral,               <31,Low,223.824,Moderate
+4/29/2015,0,No Rain,16,Warm,               <31,Low,223.845,Moderate
+4/30/2015,8.7,Drizzle,17.3,Warm,41,Moderate,223.861,Moderate
+5/1/2015,0.2,Drizzle,15.7,Warm,39,Moderate,223.866,Moderate
+5/2/2015,0,No Rain,19.6,Warm,46,Moderately High,223.861,Moderate
+5/3/2015,0,No Rain,11.2,Warm,43,Moderate,223.863,Moderate
+5/4/2015,0,No Rain,11.9,Warm,               <31,Low,223.857,Moderate
+5/6/2015,6.6,Drizzle,17.7,Warm,               <31,Low,223.849,Moderate
+5/7/2015,4.4,Drizzle,9.7,Neutral,43,Moderate,223.866,Moderate
+5/8/2015,0,No Rain,1.7,Neutral,37,Moderate,223.856,Moderate
+5/9/2015,0.2,Drizzle,4.2,Neutral,               <31,Low,223.849,Moderate
+5/10/2015,0,No Rain,5.7,Neutral,               <31,Low,223.84,Moderate
+5/11/2015,0,No Rain,7.5,Neutral,35,Moderate,223.823,Moderate
+5/12/2015,0,No Rain,8.5,Neutral,               <31,Low,223.804,Moderate
+5/13/2015,0.3,Drizzle,7.7,Neutral,33,Moderate,223.779,Moderate
+5/14/2015,21.6,Moderate Rain,9.5,Neutral,               <31,Low,223.831,Moderate
+5/15/2015,0,No Rain,12,Warm,               <31,Low,223.856,Moderate
+5/16/2015,4.2,Drizzle,14.1,Warm,               <31,Low,223.888,Moderate
+5/17/2015,35.2,Heavy Rain,6.1,Neutral,57,Moderately High,224.108,Moderately High
+5/18/2015,1.4,Drizzle,4.1,Neutral,52,Moderately High,224.741,Moderately High
+5/19/2015,0,No Rain,9,Neutral,               <31,Low,225.504,High
+5/21/2015,0,No Rain,12.7,Warm,               <31,Low,226.078,Very High
+5/22/2015,0,No Rain,18.4,Warm,               <31,Low,226.085,Very High
+5/23/2015,0,No Rain,21.5,Hot,               <31,Low,226.021,Very High
+5/24/2015,0,No Rain,20.1,Warm,               <31,Low,225.934,High
+5/25/2015,0,No Rain,20.4,Warm,               <31,Low,225.847,High
+5/26/2015,0,No Rain,21.3,Hot,               <31,Low,225.737,High
+5/27/2015,0,No Rain,14,Warm,               <31,Low,225.6,High
+5/28/2015,6.8,Drizzle,14.4,Warm,39,Moderate,225.449,High
+5/29/2015,0.2,Drizzle,6.4,Neutral,43,Moderate,225.264,High
+5/30/2015,0.2,Drizzle,6.6,Neutral,               <31,Low,225.092,High
+5/31/2015,0,No Rain,13.5,Warm,               <31,Low,224.938,Moderately High
+6/1/2015,0,No Rain,15.7,Warm,37,Moderate,224.808,Moderately High
+6/3/2015,0,No Rain,15.8,Warm,32,Moderate,224.667,Moderately High
+6/4/2015,0,No Rain,16.5,Warm,               <31,Low,224.698,Moderately High
+6/5/2015,0,No Rain,19.5,Warm,               <31,Low,224.751,Moderately High
+6/6/2015,14,Light Rain,17.7,Warm,               <31,Low,224.838,Moderately High
+6/7/2015,4.6,Drizzle,19.4,Warm,35,Moderate,224.935,Moderately High
+6/8/2015,0,No Rain,19.8,Warm,               <31,Low,225.055,High
+6/9/2015,0.5,Drizzle,19.8,Warm,39,Moderate,225.155,High
+6/10/2015,0,No Rain,19.1,Warm,               <31,Low,225.228,High
+6/11/2015,0,No Rain,20.6,Warm,               <31,Low,225.264,High
+6/12/2015,0,No Rain,21.8,Hot,37,Moderate,225.267,High
+6/13/2015,7.6,Drizzle,22.4,Hot,41,Moderate,225.238,High
+6/14/2015,1.2,Drizzle,20.2,Warm,               <31,Low,225.188,High
+6/15/2015,0,No Rain,14.5,Warm,               <31,Low,225.075,High
+6/17/2015,5.4,Drizzle,17.8,Warm,43,Moderate,224.764,Moderately High
+6/18/2015,0,No Rain,14.3,Warm,               <31,Low,224.621,Moderately High
+6/19/2015,4.7,Drizzle,15.8,Warm,               <31,Low,224.505,Moderately High
+6/20/2015,0,No Rain,18.5,Warm,               <31,Low,224.405,Moderately High
+6/21/2015,0.7,Drizzle,20,Warm,               <31,Low,224.278,Moderately High
+6/22/2015,8.5,Drizzle,18.6,Warm,33,Moderate,224.199,Moderately High
+6/24/2015,19.6,Light Rain,20.7,Warm,35,Moderate,224.043,Moderately High
+6/25/2015,0.2,Drizzle,21.4,Hot,               <31,Low,223.96,Moderate
+6/26/2015,0,No Rain,22.8,Hot,               <31,Low,223.904,Moderate
+6/27/2015,19.9,Light Rain,20.9,Warm,37,Moderate,223.88,Moderate
+6/28/2015,0,No Rain,22.9,Hot,               <31,Low,223.911,Moderate
+6/29/2015,0,No Rain,20.3,Warm,               <31,Low,223.896,Moderate
+6/30/2015,0,No Rain,19.4,Warm,               <31,Low,223.875,Moderate
+7/1/2015,0,No Rain,20.6,Warm,               <31,Low,223.813,Moderate
+7/2/2015,0,No Rain,21.8,Hot,               <31,Low,223.777,Moderate
+7/3/2015,0,No Rain,22.9,Hot,               <31,Low,223.8,Moderate
+7/4/2015,22,Moderate Rain,23.5,Hot,46,Moderately High,223.79,Moderate
+7/5/2015,0.2,Drizzle,18.1,Warm,32,Moderate,223.884,Moderate
+7/6/2015,0,No Rain,14.7,Warm,               <31,Low,223.912,Moderate
+7/7/2015,0,No Rain,17.7,Warm,33,Moderate,223.961,Moderate
+7/8/2015,0,No Rain,18.8,Warm,               <31,Low,224.041,Moderately High
+7/9/2015,0,No Rain,21,Hot,41,Moderate,224.124,Moderately High
+7/10/2015,0,No Rain,24.8,Hot,35,Moderate,224.177,Moderately High
+7/11/2015,5.1,Drizzle,25.1,Hot,               <31,Low,224.152,Moderately High
+7/12/2015,2.4,Drizzle,24.8,Hot,37,Moderate,224.101,Moderately High
+7/13/2015,0,No Rain,24.1,Hot,               <31,Low,224.016,Moderately High
+7/14/2015,0,No Rain,22.4,Hot,               <31,Low,223.92,Moderate
+7/15/2015,0,No Rain,23.9,Hot,               <31,Low,223.828,Moderate
+7/16/2015,3.5,Drizzle,22.5,Hot,               <31,Low,223.758,Moderate
+7/17/2015,0,No Rain,22.3,Hot,               <31,Low,223.744,Moderate
+7/18/2015,0.6,Drizzle,18.4,Warm,32,Moderate,223.802,Moderate
+7/19/2015,0,No Rain,21.2,Hot,50,Moderately High,223.764,Moderate
+7/20/2015,0,No Rain,19.5,Warm,37,Moderate,223.763,Moderate
+7/21/2015,0,No Rain,20.3,Warm,               <31,Low,223.8,Moderate
+7/22/2015,0,No Rain,22.2,Hot,               <31,Low,223.824,Moderate
+7/23/2015,24.7,Moderate Rain,25.2,Hot,               <31,Low,223.883,Moderate
+7/24/2015,0,No Rain,23.4,Hot,               <31,Low,223.97,Moderate
+7/25/2015,0,No Rain,24.8,Hot,               <31,Low,223.976,Moderate
+7/26/2015,1.6,Drizzle,25.5,Hot,32,Moderate,224.018,Moderately High
+7/27/2015,0.2,Drizzle,25.8,Hot,               <31,Low,223.972,Moderate
+7/28/2015,39,Heavy Rain,21.1,Hot,56,Moderately High,223.948,Moderate
+7/29/2015,0.5,Drizzle,20.6,Warm,46,Moderately High,223.797,Moderate
+7/30/2015,9.2,Drizzle,21.7,Hot,37,Moderate,223.713,Moderate
+7/31/2015,0.2,Drizzle,20.5,Warm,37,Moderate,223.734,Moderate
+8/1/2015,0,No Rain,22.2,Hot,               <31,Low,223.711,Moderate
+8/2/2015,0,No Rain,19.5,Warm,43,Moderate,223.583,Moderate
+8/3/2015,0,No Rain,19,Warm,37,Moderate,223.58,Moderate
+8/4/2015,0,No Rain,16.6,Warm,               <31,Low,223.716,Moderate
+8/5/2015,21.2,Moderate Rain,17.6,Warm,               <31,Low,223.81,Moderate
+8/6/2015,11.6,Light Rain,18,Warm,33,Moderate,223.853,Moderate
+8/7/2015,7.2,Drizzle,21.8,Hot,41,Moderate,223.729,Moderate
+8/8/2015,0,No Rain,20,Warm,               <31,Low,223.693,Moderate
+8/9/2015,0,No Rain,20.7,Warm,               <31,Low,223.665,Moderate
+8/10/2015,0,No Rain,20.9,Warm,               <31,Low,223.659,Moderate
+8/11/2015,0,No Rain,24.7,Hot,               <31,Low,223.661,Moderate
+8/12/2015,8,Drizzle,24.5,Hot,               <31,Low,223.671,Moderate
+8/13/2015,0,No Rain,25.9,Hot,               <31,Low,223.684,Moderate
+8/14/2015,0,No Rain,26,Hot,               <31,Low,223.684,Moderate
+8/15/2015,2,Drizzle,27.6,Hot,33,Moderate,223.731,Moderate
+8/16/2015,0.2,Drizzle,19,Warm,35,Moderate,223.718,Moderate
+8/17/2015,0,No Rain,16.3,Warm,               <31,Low,223.658,Moderate
+8/18/2015,0,No Rain,15.8,Warm,               <31,Low,223.639,Moderate
+8/19/2015,0,No Rain,17.2,Warm,33,Moderate,223.631,Moderate
+8/20/2015,0,No Rain,18.3,Warm,33,Moderate,223.688,Moderate
+8/21/2015,10.5,Light Rain,20.6,Warm,32,Moderate,223.767,Moderate
+8/22/2015,42.7,Violent Rain,18.5,Warm,43,Moderate,223.891,Moderate
+8/23/2015,18,Light Rain,13.5,Warm,52,Moderately High,223.974,Moderate
+8/24/2015,0.2,Drizzle,15.2,Warm,39,Moderate,223.835,Moderate
+8/25/2015,0,No Rain,15.1,Warm,               <31,Low,223.834,Moderate
+8/26/2015,0,No Rain,16.6,Warm,               <31,Low,223.768,Moderate
+8/27/2015,0,No Rain,19.8,Warm,               <31,Low,223.802,Moderate
+8/28/2015,1.4,Drizzle,23.1,Hot,               <31,Low,223.882,Moderate
+8/29/2015,0,No Rain,20.6,Warm,               <31,Low,223.868,Moderate
+8/30/2015,0,No Rain,24.8,Hot,               <31,Low,223.761,Moderate
+9/1/2015,0,No Rain,21.6,Hot,               <31,Low,223.679,Moderate
+9/2/2015,0,No Rain,24.2,Hot,               <31,Low,223.69,Moderate
+9/3/2015,0,No Rain,26.4,Hot,               <31,Low,223.699,Moderate
+9/4/2015,48.6,Violent Rain,22.6,Hot,39,Moderate,223.747,Moderate
+9/5/2015,14.2,Light Rain,20,Warm,               <31,Low,223.961,Moderate
+9/6/2015,0.2,Drizzle,19.9,Warm,33,Moderate,224.048,Moderately High
+9/7/2015,0,No Rain,16.6,Warm,41,Moderate,224.077,Moderately High
+9/8/2015,0,No Rain,14,Warm,37,Moderate,224.036,Moderately High
+9/9/2015,0,No Rain,11.6,Warm,               <31,Low,223.863,Moderate
+9/10/2015,0,No Rain,11.7,Warm,               <31,Low,223.809,Moderate
+9/11/2015,0.2,Drizzle,14.2,Warm,               <31,Low,223.776,Moderate
+9/12/2015,0,No Rain,17.3,Warm,               <31,Low,223.806,Moderate
+9/13/2015,0,No Rain,21.7,Hot,43,Moderate,223.761,Moderate
+9/14/2015,0,No Rain,14,Warm,               <31,Low,223.739,Moderate
+9/15/2015,0,No Rain,17.9,Warm,35,Moderate,223.737,Moderate
+9/16/2015,0,No Rain,17.8,Warm,               <31,Low,223.748,Moderate
+9/17/2015,4.3,Drizzle,14.4,Warm,               <31,Low,223.734,Moderate
+9/18/2015,0,No Rain,13.3,Warm,               <31,Low,223.728,Moderate
+9/19/2015,0,No Rain,16.8,Warm,               <31,Low,223.76,Moderate
+9/20/2015,0,No Rain,18.2,Warm,               <31,Low,223.73,Moderate
+9/21/2015,0,No Rain,20.4,Warm,43,Moderate,223.68,Moderate
+9/22/2015,0,No Rain,11.2,Warm,               <31,Low,223.699,Moderate
+9/23/2015,0,No Rain,13.3,Warm,               <31,Low,223.729,Moderate
+9/24/2015,0,No Rain,15.5,Warm,               <31,Low,223.758,Moderate
+9/25/2015,0,No Rain,19.6,Warm,               <31,Low,223.762,Moderate
+9/26/2015,0,No Rain,22.5,Hot,48,Moderately High,223.748,Moderate
+9/27/2015,2.3,Drizzle,17.4,Warm,               <31,Low,223.719,Moderate
+9/28/2015,0,No Rain,10.3,Neutral,               <31,Low,223.694,Moderate
+9/29/2015,0,No Rain,9.1,Neutral,               <31,Low,223.728,Moderate
+9/30/2015,3.4,Drizzle,14.3,Warm,               <31,Low,223.759,Moderate
+10/1/2015,0,No Rain,15.4,Warm,               <31,Low,223.787,Moderate
+10/2/2015,0,No Rain,11.7,Warm,               <31,Low,223.796,Moderate
+10/3/2015,0,No Rain,9.8,Neutral,               <31,Low,223.787,Moderate
+10/4/2015,0.2,Drizzle,10.2,Neutral,               <31,Low,223.775,Moderate
+10/5/2015,1.2,Drizzle,11.4,Warm,               <31,Low,223.754,Moderate
+10/6/2015,0,No Rain,7.9,Neutral,37,Moderate,223.706,Moderate
+10/7/2015,8.4,Drizzle,6.9,Neutral,               <31,Low,223.674,Moderate
+10/8/2015,0.2,Drizzle,8.6,Neutral,               <31,Low,223.685,Moderate
+10/9/2015,0,No Rain,9,Neutral,35,Moderate,223.73,Moderate
+10/10/2015,0,No Rain,16.6,Warm,               <31,Low,223.766,Moderate
+10/11/2015,3.3,Drizzle,17.6,Warm,39,Moderate,223.79,Moderate
+10/12/2015,14,Light Rain,9,Neutral,56,Moderately High,223.847,Moderate
+10/13/2015,0,No Rain,9.9,Neutral,               <31,Low,223.831,Moderate
+10/14/2015,0,No Rain,11.8,Warm,               <31,Low,223.616,Moderate
+10/15/2015,0,No Rain,4.1,Neutral,43,Moderate,223.504,Moderate
+10/16/2015,0,No Rain,4.7,Neutral,39,Moderate,223.358,Moderate
+10/17/2015,0,No Rain,3.2,Neutral,               <31,Low,223.197,Moderate
+10/18/2015,0,No Rain,10.1,Neutral,43,Moderate,223.055,Moderate
+10/19/2015,0,No Rain,11.3,Warm,               <31,Low,222.933,Low
+10/20/2015,0.3,Drizzle,7.5,Neutral,               <31,Low,222.831,Low
+10/21/2015,0.3,Drizzle,8.6,Neutral,35,Moderate,222.737,Low
+10/22/2015,0,No Rain,7.7,Neutral,               <31,Low,222.637,Low
+10/23/2015,9.9,Drizzle,8.1,Neutral,               <31,Low,222.576,Low
+10/24/2015,0.2,Drizzle,6.6,Neutral,               <31,Low,222.515,Low
+10/25/2015,0,No Rain,3.4,Neutral,               <31,Low,222.44,Low
+10/26/2015,0,No Rain,5.3,Neutral,               <31,Low,222.388,Low
+10/27/2015,1.4,Drizzle,6.1,Neutral,               <31,Low,222.351,Low
+10/28/2015,1.5,Drizzle,4.5,Neutral,39,Moderate,222.305,Low
+10/29/2015,0,No Rain,3.8,Neutral,35,Moderate,222.27,Low
+10/30/2015,0,No Rain,5.9,Neutral,35,Moderate,222.227,Low
+10/31/2015,1.7,Drizzle,5.9,Neutral,               <31,Low,222.196,Low
+11/1/2015,0,No Rain,6.3,Neutral,               <31,Low,222.2,Low
+11/2/2015,0,No Rain,6.1,Neutral,               <31,Low,222.195,Low
+11/3/2015,2.1,Drizzle,4.7,Neutral,               <31,Low,222.194,Low
+11/4/2015,0.4,Drizzle,5,Neutral,               <31,Low,222.231,Low
+11/5/2015,4.6,Drizzle,2.9,Neutral,33,Moderate,222.276,Low
+11/6/2015,1,Drizzle,2,Neutral,32,Moderate,222.297,Low
+11/7/2015,0.2,Drizzle,1.4,Neutral,               <31,Low,222.322,Low
+11/8/2015,0,No Rain,7.1,Neutral,               <31,Low,222.372,Low
+11/9/2015,0,No Rain,7,Neutral,               <31,Low,222.44,Low
+11/10/2015,0,No Rain,2.6,Neutral,               <31,Low,222.512,Low
+11/11/2015,0,No Rain,-0.1,Cold,               <31,Low,222.567,Low
+11/12/2015,0,No Rain,-0.2,Cold,               <31,Low,222.61,Low
+11/13/2015,0,No Rain,0.9,Cold,33,Moderate,222.632,Low
+11/14/2015,0,No Rain,6.9,Neutral,               <31,Low,222.63,Low
+11/15/2015,0,No Rain,7.5,Neutral,               <31,Low,222.625,Low
+11/16/2015,0.9,Drizzle,7.8,Neutral,               <31,Low,222.611,Low
+11/17/2015,0.4,Drizzle,5.2,Neutral,               <31,Low,222.595,Low
+11/18/2015,1.2,Drizzle,-0.2,Cold,48,Moderately High,222.578,Low
+11/19/2015,6.9,Drizzle,-3.9,Cold,46,Moderately High,222.567,Low
+11/20/2015,0.2,Drizzle,-6.7,Cold,32,Moderate,222.56,Low
+11/21/2015,0,No Rain,-9.8,Very Cold,               <31,Low,222.523,Low
+11/22/2015,2.9,Drizzle,-4.2,Cold,               <31,Low,222.393,Low
+11/23/2015,0.2,Drizzle,-1.5,Cold,               <31,Low,222.278,Low
+11/24/2015,0,No Rain,-2.9,Cold,               <31,Low,222.207,Low
+11/25/2015,0.2,Drizzle,-4.2,Cold,39,Moderate,222.285,Low
+11/26/2015,0.2,Drizzle,-10.1,Very Cold,               <31,Low,222.263,Low
+11/27/2015,0,No Rain,-8.5,Cold,39,Moderate,222.201,Low
+11/28/2015,0,No Rain,-5.7,Cold,               <31,Low,222.17,Low
+11/29/2015,0,No Rain,-6.1,Cold,               <31,Low,222.131,Low
+11/30/2015,0,No Rain,-2.2,Cold,               <31,Low,222.12,Low
+12/1/2015,0,No Rain,-2.5,Cold,               <31,Low,222.093,Low
+12/2/2015,0,No Rain,-6.6,Cold,               <31,Low,222.073,Low
+12/3/2015,0,No Rain,0.7,Cold,               <31,Low,222.077,Low
+12/4/2015,0,No Rain,1.3,Neutral,39,Moderate,222.066,Low
+12/5/2015,0,No Rain,2.5,Neutral,32,Moderate,222.095,Low
+12/6/2015,0,No Rain,-0.2,Cold,               <31,Low,222.216,Low
+12/7/2015,0,No Rain,1.9,Neutral,               <31,Low,222.284,Low
+12/8/2015,0,No Rain,-1.3,Cold,               <31,Low,222.321,Low
+12/9/2015,0,No Rain,0.5,Cold,               <31,Low,222.334,Low
+12/10/2015,0.8,Drizzle,-1.2,Cold,32,Moderate,222.333,Low
+12/11/2015,0,No Rain,-3.7,Cold,               <31,Low,222.342,Low
+12/12/2015,0.7,Drizzle,-2.4,Cold,               <31,Low,222.349,Low
+12/13/2015,0,No Rain,-1.3,Cold,               <31,Low,222.363,Low
+12/14/2015,0,No Rain,-2.9,Cold,               <31,Low,222.376,Low
+12/15/2015,0.2,Drizzle,-6.7,Cold,               <31,Low,222.393,Low
+12/16/2015,10.2,Light Rain,-6.3,Cold,33,Moderate,222.365,Low
+12/17/2015,3.8,Drizzle,-8.4,Cold,43,Moderate,222.421,Low
+12/18/2015,0.5,Drizzle,-12.8,Very Cold,               <31,Low,222.574,Low
+12/19/2015,3.2,Drizzle,-13.3,Very Cold,               <31,Low,222.621,Low
+12/20/2015,0,No Rain,-9.1,Very Cold,               <31,Low,222.593,Low
+12/21/2015,0.3,Drizzle,-7.6,Cold,               <31,Low,222.544,Low
+12/22/2015,5.4,Drizzle,-5.3,Cold,               <31,Low,222.485,Low
+12/23/2015,3.4,Drizzle,-7.5,Cold,35,Moderate,222.446,Low
+12/24/2015,0.4,Drizzle,-14.4,Very Cold,32,Moderate,222.426,Low
+12/25/2015,0,No Rain,-13.8,Very Cold,               <31,Low,222.416,Low
+12/26/2015,0,No Rain,-19,Very Cold,               <31,Low,222.441,Low
+12/27/2015,0,No Rain,-18,Very Cold,               <31,Low,222.444,Low
+12/28/2015,0,No Rain,-13.6,Very Cold,               <31,Low,222.415,Low
+12/29/2015,0,No Rain,-11,Very Cold,               <31,Low,222.389,Low
+12/30/2015,0,No Rain,-12.4,Very Cold,               <31,Low,222.362,Low
+12/31/2015,0,No Rain,-9,Cold,               <31,Low,222.345,Low
+1/1/2016,0,No Rain,-5.9,Cold,               <31,Low,222.35,Low
+1/2/2016,0,No Rain,-4.9,Cold,               <31,Low,222.37,Low
+1/3/2016,0,No Rain,-7.6,Cold,               <31,Low,222.406,Low
+1/4/2016,0,No Rain,-8.8,Cold,35,Moderate,222.429,Low
+1/7/2016,0,No Rain,-10.2,Very Cold,               <31,Low,222.432,Low
+1/8/2016,0.9,Drizzle,-14.8,Very Cold,35,Moderate,222.428,Low
+1/9/2016,0,No Rain,-22.7,Extreme Cold,               <31,Low,222.442,Low
+1/10/2016,0.2,Drizzle,-24.8,Extreme Cold,               <31,Low,222.453,Low
+1/11/2016,0.9,Drizzle,-22.2,Extreme Cold,               <31,Low,222.458,Low
+1/12/2016,0,No Rain,-21.2,Extreme Cold,               <31,Low,222.47,Low
+1/14/2016,0,No Rain,-18.9,Very Cold,               <31,Low,222.461,Low
+1/15/2016,0,No Rain,-21.2,Extreme Cold,               <31,Low,222.451,Low
+1/16/2016,0,No Rain,-24.4,Extreme Cold,               <31,Low,222.449,Low
+1/17/2016,0.2,Drizzle,-23.1,Extreme Cold,               <31,Low,222.445,Low
+1/18/2016,0.9,Drizzle,-19.2,Extreme Cold,               <31,Low,222.44,Low
+1/19/2016,0,No Rain,-18,Very Cold,               <31,Low,222.433,Low
+1/20/2016,0.2,Drizzle,-11.1,Very Cold,               <31,Low,222.42,Low
+1/21/2016,0.2,Drizzle,-14.2,Very Cold,               <31,Low,222.404,Low
+1/22/2016,0.4,Drizzle,-13.7,Very Cold,39,Moderate,222.385,Low
+1/23/2016,1.2,Drizzle,-6.6,Cold,41,Moderate,222.372,Low
+1/24/2016,0,No Rain,-8.2,Cold,               <31,Low,222.367,Low
+1/25/2016,1.1,Drizzle,-5.7,Cold,               <31,Low,222.363,Low
+1/26/2016,0.5,Drizzle,-5.3,Cold,32,Moderate,222.358,Low
+1/29/2016,0,No Rain,-2.5,Cold,32,Moderate,222.326,Low
+1/30/2016,0,No Rain,-0.2,Cold,               <31,Low,222.319,Low
+1/31/2016,0.2,Drizzle,-5.7,Cold,               <31,Low,222.309,Low
+2/1/2016,0.5,Drizzle,-8.6,Cold,               <31,Low,222.3,Low
+2/2/2016,0,No Rain,-10.5,Very Cold,               <31,Low,222.292,Low
+2/3/2016,1.4,Drizzle,-10.9,Very Cold,               <31,Low,222.281,Low
+2/4/2016,0.2,Drizzle,-11.4,Very Cold,               <31,Low,222.277,Low
+2/5/2016,0.4,Drizzle,-8.3,Cold,               <31,Low,222.281,Low
+2/6/2016,0.2,Drizzle,-3.4,Cold,               <31,Low,222.287,Low
+2/7/2016,2.5,Drizzle,-6,Cold,46,Moderately High,222.29,Low
+2/8/2016,0.2,Drizzle,-13.4,Very Cold,44,Moderate,222.294,Low
+2/9/2016,0.2,Drizzle,-17.8,Very Cold,               <31,Low,222.286,Low
+2/10/2016,0,No Rain,-17.3,Very Cold,               <31,Low,222.271,Low
+2/11/2016,0,No Rain,-14.8,Very Cold,               <31,Low,222.258,Low
+2/12/2016,0,No Rain,-21.5,Extreme Cold,33,Moderate,222.258,Low
+2/13/2016,0,No Rain,-19.2,Extreme Cold,               <31,Low,222.252,Low
+2/14/2016,4,Drizzle,-9,Cold,32,Moderate,222.243,Low
+2/15/2016,0.2,Drizzle,-5.1,Cold,               <31,Low,222.22,Low
+2/16/2016,0.4,Drizzle,-14,Very Cold,               <31,Low,222.204,Low
+2/17/2016,0,No Rain,-10.4,Very Cold,33,Moderate,222.188,Low
+2/18/2016,0,No Rain,0.4,Cold,               <31,Low,222.176,Low
+2/19/2016,1.4,Drizzle,1.2,Neutral,               <31,Low,222.172,Low
+2/20/2016,0.2,Drizzle,-6,Cold,33,Moderate,222.169,Low
+2/21/2016,0.2,Drizzle,-14,Very Cold,               <31,Low,222.164,Low
+2/22/2016,0.5,Drizzle,-4.9,Cold,               <31,Low,222.157,Low
+2/23/2016,0.2,Drizzle,-5.5,Cold,               <31,Low,222.156,Low
+2/24/2016,0.2,Drizzle,-8.1,Cold,               <31,Low,222.152,Low
+2/25/2016,0,No Rain,-5.6,Cold,               <31,Low,222.148,Low
+2/26/2016,0,No Rain,-1.9,Cold,               <31,Low,222.145,Low
+2/27/2016,1,Drizzle,-3.3,Cold,37,Moderate,222.148,Low
+2/28/2016,1.6,Drizzle,-10.9,Very Cold,48,Moderately High,222.152,Low
+2/29/2016,0.2,Drizzle,-20,Extreme Cold,44,Moderate,222.172,Low
+3/1/2016,0,No Rain,-13.9,Very Cold,               <31,Low,222.173,Low
+3/2/2016,0,No Rain,-12.5,Very Cold,               <31,Low,222.176,Low
+3/3/2016,0,No Rain,-13.3,Very Cold,               <31,Low,222.189,Low
+3/4/2016,3.4,Drizzle,-7.4,Cold,               <31,Low,222.213,Low
+3/5/2016,0,No Rain,-5.2,Cold,35,Moderate,222.239,Low
+3/6/2016,0,No Rain,3.2,Neutral,               <31,Low,222.267,Low
+3/7/2016,0,No Rain,2.2,Neutral,               <31,Low,222.293,Low
+3/8/2016,0,No Rain,-0.7,Cold,39,Moderate,222.292,Low
+3/9/2016,0,No Rain,-4.9,Cold,               <31,Low,222.25,Low
+3/10/2016,0,No Rain,-0.6,Cold,               <31,Low,222.214,Low
+3/11/2016,0,No Rain,7.3,Neutral,39,Moderate,222.227,Low
+3/12/2016,0,No Rain,5.6,Neutral,               <31,Low,222.286,Low
+3/13/2016,0,No Rain,5.6,Neutral,               <31,Low,222.445,Low
+3/14/2016,0.2,Drizzle,6.8,Neutral,               <31,Low,223.014,Moderate
+3/15/2016,16,Light Rain,5.9,Neutral,               <31,Low,224.124,Moderately High
+3/16/2016,7.6,Drizzle,0.9,Cold,               <31,Low,225.501,High
+3/17/2016,2.5,Drizzle,-2.6,Cold,               <31,Low,226.435,Very High
+3/18/2016,0,No Rain,-3.4,Cold,               <31,Low,226.858,Very High
+3/19/2016,0,No Rain,-1.7,Cold,               <31,Low,226.589,Very High
+3/20/2016,0,No Rain,0,Cold,               <31,Low,226.61,Very High
+3/21/2016,0,No Rain,-0.8,Cold,               <31,Low,226.657,Very High
+3/22/2016,0,No Rain,-3.6,Cold,               <31,Low,226.544,Very High
+3/23/2016,0,No Rain,-4.1,Cold,               <31,Low,226.154,Very High
+3/24/2016,1.8,Drizzle,3.3,Neutral,32,Moderate,225.798,High
+3/25/2016,1.2,Drizzle,-4.6,Cold,35,Moderate,225.46,High
+3/26/2016,0.2,Drizzle,-3.4,Cold,               <31,Low,225.119,High
+3/27/2016,0,No Rain,3.3,Neutral,               <31,Low,224.879,Moderately High
+3/28/2016,0,No Rain,2.8,Neutral,               <31,Low,224.669,Moderately High
+3/29/2016,0,No Rain,5.3,Neutral,               <31,Low,224.489,Moderately High
+3/30/2016,0,No Rain,5.5,Neutral,               <31,Low,224.356,Moderately High
+3/31/2016,0,No Rain,0.8,Cold,41,Moderate,224.266,Moderately High
+4/1/2016,2.7,Drizzle,-4.5,Cold,32,Moderate,224.309,Moderately High
+4/2/2016,0.2,Drizzle,-9.3,Very Cold,               <31,Low,224.103,Moderately High
+4/3/2016,0,No Rain,-5.8,Cold,32,Moderate,223.949,Moderate
+4/4/2016,0.2,Drizzle,-5.4,Cold,               <31,Low,223.806,Moderate
+4/5/2016,6.6,Drizzle,0.2,Cold,               <31,Low,223.667,Moderate
+4/6/2016,1.1,Drizzle,0.9,Cold,               <31,Low,223.565,Moderate
+4/7/2016,1.1,Drizzle,-1.1,Cold,39,Moderate,223.469,Moderate
+4/8/2016,0.2,Drizzle,-5.3,Cold,32,Moderate,223.38,Moderate
+4/9/2016,0,No Rain,-2.2,Cold,39,Moderate,223.343,Moderate
+4/10/2016,0.8,Drizzle,-0.5,Cold,43,Moderate,223.318,Moderate
+4/11/2016,0,No Rain,-4.6,Cold,39,Moderate,223.293,Moderate
+4/12/2016,0,No Rain,1.6,Neutral,               <31,Low,223.261,Moderate
+4/13/2016,0,No Rain,8.1,Neutral,               <31,Low,223.223,Moderate
+4/14/2016,0,No Rain,13.6,Warm,               <31,Low,223.198,Moderate
+4/15/2016,18.8,Light Rain,7.6,Neutral,33,Moderate,223.223,Moderate
+4/16/2016,20.8,Moderate Rain,2.7,Neutral,39,Moderate,223.359,Moderate
+4/17/2016,2.4,Drizzle,3.3,Neutral,               <31,Low,223.779,Moderate
+4/18/2016,0,No Rain,8.6,Neutral,               <31,Low,224.169,Moderately High
+4/19/2016,0.2,Drizzle,11,Warm,               <31,Low,224.484,Moderately High
+4/20/2016,0,No Rain,14.1,Warm,43,Moderate,224.678,Moderately High
+4/21/2016,0,No Rain,3.8,Neutral,39,Moderate,224.678,Moderately High
+4/22/2016,0,No Rain,3.6,Neutral,               <31,Low,224.56,Moderately High
+4/23/2016,0.2,Drizzle,6.2,Neutral,32,Moderate,224.453,Moderately High
+4/24/2016,0,No Rain,7.5,Neutral,41,Moderate,224.374,Moderately High
+4/25/2016,0,No Rain,8,Neutral,43,Moderate,224.294,Moderately High
+4/26/2016,0,No Rain,8,Neutral,32,Moderate,224.222,Moderately High
+4/27/2016,0,No Rain,8.7,Neutral,33,Moderate,224.146,Moderately High
+4/28/2016,0,No Rain,8.4,Neutral,32,Moderate,224.073,Moderately High
+4/29/2016,0,No Rain,8.5,Neutral,               <31,Low,224.012,Moderately High
+4/30/2016,0,No Rain,9.9,Neutral,35,Moderate,223.965,Moderate
+5/1/2016,0,No Rain,12.2,Warm,               <31,Low,223.958,Moderate
+5/2/2016,0,No Rain,16.1,Warm,               <31,Low,224.001,Moderately High
+5/3/2016,0,No Rain,11.8,Warm,41,Moderate,224.063,Moderately High
+5/4/2016,0,No Rain,12.6,Warm,               <31,Low,224.101,Moderately High
+5/5/2016,0,No Rain,23.9,Hot,               <31,Low,224.091,Moderately High
+5/6/2016,0,No Rain,16.9,Warm,48,Moderately High,224.063,Moderately High
+5/7/2016,0,No Rain,14.3,Warm,37,Moderate,224.027,Moderately High
+5/8/2016,0,No Rain,17.6,Warm,               <31,Low,223.978,Moderate
+5/9/2016,0.2,Drizzle,18.6,Warm,               <31,Low,223.913,Moderate
+5/10/2016,7,Drizzle,12.8,Warm,               <31,Low,223.839,Moderate
+5/11/2016,0.7,Drizzle,13.1,Warm,32,Moderate,223.756,Moderate
+5/12/2016,0.4,Drizzle,6.6,Neutral,41,Moderate,223.674,Moderate
+5/13/2016,0.2,Drizzle,1.8,Neutral,43,Moderate,223.61,Moderate
+5/14/2016,0,No Rain,4.4,Neutral,32,Moderate,223.551,Moderate
+5/15/2016,0.4,Drizzle,9.9,Neutral,35,Moderate,223.501,Moderate
+5/16/2016,0.2,Drizzle,9.9,Neutral,               <31,Low,223.506,Moderate
+5/17/2016,0,No Rain,13.7,Warm,               <31,Low,223.595,Moderate
+5/18/2016,0,No Rain,17.7,Warm,               <31,Low,223.708,Moderate
+5/19/2016,0,No Rain,19.1,Warm,               <31,Low,223.731,Moderate
+5/20/2016,0,No Rain,20.1,Warm,               <31,Low,223.71,Moderate
+5/21/2016,0,No Rain,19.6,Warm,               <31,Low,223.71,Moderate
+5/22/2016,11.2,Light Rain,21,Hot,50,Moderately High,223.704,Moderate
+5/23/2016,10.5,Light Rain,21.5,Hot,33,Moderate,223.781,Moderate
+5/24/2016,0,No Rain,19.2,Warm,               <31,Low,223.716,Moderate
+5/25/2016,26.6,Moderate Rain,19.5,Warm,35,Moderate,223.639,Moderate
+5/27/2016,0.3,Drizzle,17.6,Warm,32,Moderate,223.621,Moderate
+5/28/2016,0.3,Drizzle,17,Warm,               <31,Low,223.734,Moderate
+5/29/2016,0,No Rain,17.1,Warm,               <31,Low,223.932,Moderate
+5/30/2016,0,No Rain,18,Warm,               <31,Low,223.953,Moderate
+5/31/2016,19.1,Light Rain,14.2,Warm,37,Moderate,224.019,Moderately High
+6/2/2016,0,No Rain,14.7,Warm,               <31,Low,224.228,Moderately High
+6/3/2016,1.3,Drizzle,15.2,Warm,               <31,Low,224.495,Moderately High
+6/4/2016,0.2,Drizzle,18.7,Warm,               <31,Low,224.608,Moderately High
+6/5/2016,0,No Rain,18.4,Warm,46,Moderately High,224.591,Moderately High
+6/7/2016,0,No Rain,13.4,Warm,               <31,Low,224.477,Moderately High
+6/8/2016,2,Drizzle,16.5,Warm,               <31,Low,224.43,Moderately High
+6/9/2016,0,No Rain,20.7,Warm,32,Moderate,224.399,Moderately High
+6/10/2016,1.2,Drizzle,24.8,Hot,33,Moderate,224.363,Moderately High
+6/11/2016,0,No Rain,15.2,Warm,33,Moderate,224.288,Moderately High
+6/12/2016,8.7,Drizzle,15.9,Warm,41,Moderate,224.201,Moderately High
+6/13/2016,0,No Rain,20.1,Warm,               <31,Low,224.089,Moderately High
+6/14/2016,0,No Rain,20.2,Warm,               <31,Low,223.98,Moderate
+6/15/2016,0,No Rain,20.4,Warm,               <31,Low,223.89,Moderate
+6/16/2016,0,No Rain,19.2,Warm,33,Moderate,223.838,Moderate
+6/17/2016,21.4,Moderate Rain,23,Hot,               <31,Low,223.903,Moderate
+6/18/2016,0,No Rain,20.8,Warm,               <31,Low,224.191,Moderately High
+6/19/2016,19.1,Light Rain,22.5,Hot,46,Moderately High,224.816,Moderately High
+6/20/2016,0,No Rain,18.4,Warm,41,Moderate,225.175,High
+6/21/2016,0,No Rain,18.4,Warm,33,Moderate,225.368,High
+6/22/2016,0,No Rain,18.8,Warm,               <31,Low,225.457,High
+6/23/2016,0,No Rain,21.3,Hot,               <31,Low,225.46,High
+6/24/2016,0,No Rain,22,Hot,               <31,Low,225.39,High
+6/25/2016,29.5,Moderate Rain,21.2,Hot,41,Moderate,225.355,High
+6/26/2016,10.4,Light Rain,14.7,Warm,35,Moderate,225.16,High
+6/27/2016,0,No Rain,16.1,Warm,               <31,Low,224.951,Moderately High
+6/28/2016,0,No Rain,19.5,Warm,               <31,Low,224.731,Moderately High
+6/29/2016,0,No Rain,20.1,Warm,33,Moderate,224.508,Moderately High
+6/30/2016,0,No Rain,15.2,Warm,33,Moderate,224.306,Moderately High
+7/1/2016,0,No Rain,16.6,Warm,               <31,Low,224.118,Moderately High
+7/2/2016,0,No Rain,20.1,Warm,               <31,Low,223.955,Moderate
+7/3/2016,1.9,Drizzle,21.3,Hot,               <31,Low,223.811,Moderate
+7/4/2016,4,Drizzle,24,Hot,41,Moderate,223.682,Moderate
+7/5/2016,0,No Rain,21.3,Hot,               <31,Low,223.619,Moderate
+7/6/2016,0,No Rain,18.7,Warm,               <31,Low,223.663,Moderate
+7/7/2016,0,No Rain,18.2,Warm,               <31,Low,223.713,Moderate
+7/8/2016,0,No Rain,20.4,Warm,               <31,Low,223.69,Moderate
+7/9/2016,1.9,Drizzle,20.1,Warm,               <31,Low,223.686,Moderate
+7/10/2016,0,No Rain,22.2,Hot,               <31,Low,223.727,Moderate
+7/11/2016,6.6,Drizzle,22,Hot,35,Moderate,223.795,Moderate
+7/12/2016,12.4,Light Rain,19.6,Warm,43,Moderate,223.912,Moderate
+7/13/2016,5.2,Drizzle,17.2,Warm,37,Moderate,224.096,Moderately High
+7/14/2016,0.2,Drizzle,18.8,Warm,               <31,Low,224.252,Moderately High
+7/15/2016,0,No Rain,18,Warm,               <31,Low,224.431,Moderately High
+7/16/2016,0,No Rain,20.4,Warm,               <31,Low,224.562,Moderately High
+7/17/2016,1.6,Drizzle,19.4,Warm,32,Moderate,224.658,Moderately High
+7/18/2016,0,No Rain,18.9,Warm,               <31,Low,224.717,Moderately High
+7/19/2016,0,No Rain,23.4,Hot,               <31,Low,224.76,Moderately High
+7/20/2016,10.4,Light Rain,25.9,Hot,52,Moderately High,224.775,Moderately High
+7/21/2016,0,No Rain,24.4,Hot,32,Moderate,224.815,Moderately High
+7/22/2016,0,No Rain,24.3,Hot,               <31,Low,224.903,Moderately High
+7/23/2016,10.3,Light Rain,21.5,Hot,               <31,Low,225.035,High
+7/24/2016,0,No Rain,21.3,Hot,33,Moderate,225.089,High
+7/25/2016,0,No Rain,23.4,Hot,               <31,Low,225.089,High
+7/26/2016,0,No Rain,22.1,Hot,               <31,Low,225.064,High
+7/27/2016,0,No Rain,18.2,Warm,               <31,Low,224.984,Moderately High
+7/28/2016,0,No Rain,18.7,Warm,               <31,Low,224.83,Moderately High
+7/29/2016,0,No Rain,20.7,Warm,               <31,Low,224.63,Moderately High
+7/30/2016,0,No Rain,21.9,Hot,               <31,Low,224.411,Moderately High
+7/31/2016,0,No Rain,24.5,Hot,               <31,Low,224.188,Moderately High
+8/1/2016,22.8,Moderate Rain,22.2,Hot,               <31,Low,224.072,Moderately High
+8/2/2016,0,No Rain,22.7,Hot,33,Moderate,223.982,Moderate
+8/3/2016,2.7,Drizzle,23.9,Hot,43,Moderate,223.916,Moderate
+8/4/2016,0,No Rain,19,Warm,41,Moderate,223.911,Moderate
+8/5/2016,0,No Rain,19.6,Warm,               <31,Low,223.934,Moderate
+8/6/2016,0,No Rain,20.1,Warm,               <31,Low,224.035,Moderately High
+8/7/2016,0,No Rain,20.8,Warm,               <31,Low,224.197,Moderately High
+8/8/2016,0,No Rain,23.1,Hot,39,Moderate,224.267,Moderately High
+8/9/2016,0,No Rain,18.7,Warm,               <31,Low,224.266,Moderately High
+8/10/2016,0,No Rain,20,Warm,               <31,Low,224.227,Moderately High
+8/11/2016,0,No Rain,23.7,Hot,32,Moderate,224.138,Moderately High
+8/12/2016,0,No Rain,21,Hot,               <31,Low,224.037,Moderately High
+8/13/2016,0,No Rain,20.4,Warm,               <31,Low,223.917,Moderate
+8/14/2016,0,No Rain,21.7,Hot,               <31,Low,223.8,Moderate
+8/15/2016,11.4,Light Rain,23.4,Hot,46,Moderately High,223.724,Moderate
+8/16/2016,0,No Rain,21.8,Hot,               <31,Low,223.728,Moderate
+8/17/2016,19.5,Light Rain,23.1,Hot,32,Moderate,223.9,Moderate
+8/18/2016,10.2,Light Rain,22.3,Hot,               <31,Low,224.066,Moderately High
+8/19/2016,0.2,Drizzle,18.3,Warm,               <31,Low,223.921,Moderate
+8/20/2016,0,No Rain,16.6,Warm,               <31,Low,223.789,Moderate
+8/21/2016,0.6,Drizzle,16.6,Warm,               <31,Low,223.701,Moderate
+8/22/2016,0,No Rain,23.1,Hot,               <31,Low,223.669,Moderate
+8/23/2016,0,No Rain,22.4,Hot,               <31,Low,223.687,Moderate
+8/24/2016,0,No Rain,19.2,Warm,               <31,Low,223.698,Moderate
+8/25/2016,3.2,Drizzle,17.4,Warm,33,Moderate,223.673,Moderate
+8/26/2016,0,No Rain,18.7,Warm,               <31,Low,223.674,Moderate
+8/27/2016,0,No Rain,17.1,Warm,               <31,Low,223.681,Moderate
+8/28/2016,0,No Rain,21,Hot,32,Moderate,223.678,Moderate
+8/29/2016,0,No Rain,19.2,Warm,               <31,Low,223.715,Moderate
+8/30/2016,0,No Rain,18.1,Warm,               <31,Low,223.717,Moderate
+8/31/2016,0,No Rain,16.3,Warm,               <31,Low,223.692,Moderate
+9/1/2016,0.3,Drizzle,18.1,Warm,               <31,Low,223.685,Moderate
+9/2/2016,0,No Rain,21.7,Hot,44,Moderate,223.697,Moderate
+9/3/2016,5.5,Drizzle,23,Hot,32,Moderate,223.669,Moderate
+9/5/2016,0,No Rain,17.2,Warm,               <31,Low,223.762,Moderate
+9/6/2016,0,No Rain,15.4,Warm,               <31,Low,223.924,Moderate
+9/7/2016,3,Drizzle,15.2,Warm,               <31,Low,223.993,Moderate
+9/8/2016,0,No Rain,17.5,Warm,33,Moderate,224.065,Moderately High
+9/9/2016,0,No Rain,15.4,Warm,               <31,Low,224.155,Moderately High
+9/10/2016,0,No Rain,15.2,Warm,               <31,Low,224.271,Moderately High
+9/11/2016,0,No Rain,19.8,Warm,               <31,Low,224.331,Moderately High
+9/12/2016,0,No Rain,11.5,Warm,32,Moderate,224.354,Moderately High
+9/13/2016,0,No Rain,9.9,Neutral,               <31,Low,224.341,Moderately High
+9/14/2016,0,No Rain,12.4,Warm,               <31,Low,224.292,Moderately High
+9/15/2016,0,No Rain,16.1,Warm,               <31,Low,224.194,Moderately High
+9/16/2016,2.2,Drizzle,15,Warm,               <31,Low,224.067,Moderately High
+9/17/2016,0,No Rain,14.4,Warm,               <31,Low,223.966,Moderate
+9/18/2016,0,No Rain,18.2,Warm,35,Moderate,223.915,Moderate
+9/19/2016,0,No Rain,16.9,Warm,43,Moderate,223.86,Moderate
+9/20/2016,0,No Rain,15.6,Warm,               <31,Low,223.794,Moderate
+9/21/2016,0,No Rain,12.7,Warm,               <31,Low,223.765,Moderate
+9/22/2016,0,No Rain,12.8,Warm,               <31,Low,223.77,Moderate
+9/23/2016,0,No Rain,13,Warm,               <31,Low,223.701,Moderate
+9/24/2016,8.9,Drizzle,17.1,Warm,               <31,Low,223.675,Moderate
+9/25/2016,5.3,Drizzle,14.9,Warm,37,Moderate,223.773,Moderate
+9/26/2016,0,No Rain,11.1,Warm,48,Moderately High,223.77,Moderate
+9/27/2016,0,No Rain,10.2,Neutral,32,Moderate,223.774,Moderate
+9/28/2016,0,No Rain,11.1,Warm,               <31,Low,223.803,Moderate
+9/29/2016,0,No Rain,12.4,Warm,               <31,Low,223.858,Moderate
+9/30/2016,0,No Rain,13.8,Warm,               <31,Low,223.89,Moderate
+10/1/2016,0,No Rain,17.6,Warm,               <31,Low,223.871,Moderate
+10/2/2016,0,No Rain,18,Warm,               <31,Low,223.794,Moderate
+10/3/2016,0,No Rain,20.7,Warm,               <31,Low,223.714,Moderate
+10/4/2016,11.9,Light Rain,16.1,Warm,               <31,Low,223.727,Moderate
+10/5/2016,2.3,Drizzle,10.1,Neutral,41,Moderate,223.735,Moderate
+10/6/2016,0.2,Drizzle,4.6,Neutral,43,Moderate,223.669,Moderate
+10/7/2016,5.1,Drizzle,3.5,Neutral,37,Moderate,223.739,Moderate
+10/8/2016,0,No Rain,4.7,Neutral,               <31,Low,223.904,Moderate
+10/9/2016,0,No Rain,7.9,Neutral,33,Moderate,224.019,Moderately High
+10/10/2016,0,No Rain,7.8,Neutral,               <31,Low,224,Moderately High
+10/11/2016,0,No Rain,3.5,Neutral,               <31,Low,223.947,Moderate
+10/12/2016,0.5,Drizzle,1.9,Neutral,32,Moderate,223.858,Moderate
+10/13/2016,0,No Rain,3.6,Neutral,               <31,Low,223.776,Moderate
+10/14/2016,0,No Rain,7.8,Neutral,               <31,Low,223.692,Moderate
+10/15/2016,0,No Rain,6.9,Neutral,33,Moderate,223.619,Moderate
+10/16/2016,7,Drizzle,5.5,Neutral,32,Moderate,223.606,Moderate
+10/17/2016,0,No Rain,10.7,Neutral,               <31,Low,223.617,Moderate
+10/18/2016,0,No Rain,5.6,Neutral,               <31,Low,223.551,Moderate
+10/19/2016,0,No Rain,3.5,Neutral,               <31,Low,223.461,Moderate
+10/20/2016,0,No Rain,4.1,Neutral,               <31,Low,223.387,Moderate
+10/21/2016,0.6,Drizzle,5.5,Neutral,               <31,Low,223.316,Moderate
+10/22/2016,4.1,Drizzle,4.9,Neutral,               <31,Low,223.236,Moderate
+10/23/2016,13.2,Light Rain,6.5,Neutral,               <31,Low,223.373,Moderate
+10/24/2016,0,No Rain,5.6,Neutral,               <31,Low,223.295,Moderate
+10/25/2016,0,No Rain,6.7,Neutral,               <31,Low,223.229,Moderate
+10/26/2016,3.4,Drizzle,5.7,Neutral,               <31,Low,223.206,Moderate
+10/27/2016,0.2,Drizzle,6.7,Neutral,               <31,Low,223.181,Moderate
+10/28/2016,0,No Rain,7.7,Neutral,33,Moderate,223.149,Moderate
+10/29/2016,0.2,Drizzle,3.4,Neutral,               <31,Low,223.132,Moderate
+10/30/2016,0,No Rain,4.2,Neutral,32,Moderate,223.125,Moderate
+10/31/2016,15,Light Rain,5.1,Neutral,               <31,Low,223.148,Moderate
+11/1/2016,2.1,Drizzle,4.4,Neutral,               <31,Low,223.244,Moderate
+11/2/2016,0.2,Drizzle,4.4,Neutral,               <31,Low,223.319,Moderate
+11/3/2016,0,No Rain,2.5,Neutral,               <31,Low,223.409,Moderate
+11/5/2016,3.8,Drizzle,11.2,Warm,               <31,Low,223.563,Moderate
+11/6/2016,1.4,Drizzle,13,Warm,37,Moderate,223.62,Moderate
+11/7/2016,1,Drizzle,10.9,Neutral,37,Moderate,223.622,Moderate
+11/8/2016,1.4,Drizzle,8.1,Neutral,               <31,Low,223.611,Moderate
+11/9/2016,0.6,Drizzle,12.5,Warm,33,Moderate,223.574,Moderate
+11/10/2016,1.3,Drizzle,7.4,Neutral,35,Moderate,223.524,Moderate
+11/11/2016,0.8,Drizzle,2.8,Neutral,33,Moderate,223.488,Moderate
+11/12/2016,1.2,Drizzle,8.2,Neutral,33,Moderate,223.442,Moderate
+11/13/2016,0.9,Drizzle,9,Neutral,33,Moderate,223.385,Moderate
+11/14/2016,1.5,Drizzle,5,Neutral,35,Moderate,223.344,Moderate
+11/15/2016,2.7,Drizzle,7.1,Neutral,               <31,Low,223.318,Moderate
+11/16/2016,1.8,Drizzle,5.2,Neutral,               <31,Low,223.261,Moderate
+11/17/2016,0,No Rain,2.4,Neutral,33,Moderate,223.212,Moderate
+11/18/2016,0,No Rain,-1.6,Cold,33,Moderate,223.201,Moderate
+11/19/2016,1,Drizzle,-4.2,Cold,               <31,Low,223.189,Moderate
+11/20/2016,0,No Rain,-2.3,Cold,               <31,Low,223.161,Moderate
+11/21/2016,0.7,Drizzle,-0.8,Cold,               <31,Low,223.134,Moderate
+11/22/2016,7.7,Drizzle,0.4,Cold,               <31,Low,223.105,Moderate
+11/23/2016,0.3,Drizzle,0.6,Cold,               <31,Low,223.023,Moderate
+11/24/2016,1.2,Drizzle,1,Neutral,               <31,Low,222.961,Low
+11/25/2016,0.6,Drizzle,2.1,Neutral,               <31,Low,222.932,Low
+11/26/2016,1,Drizzle,1.4,Neutral,               <31,Low,222.934,Low
+11/27/2016,1,Drizzle,-1.8,Cold,               <31,Low,222.957,Low
+11/28/2016,7.1,Drizzle,2.7,Neutral,               <31,Low,223.001,Moderate
+11/29/2016,13.6,Light Rain,2.2,Neutral,32,Moderate,223.06,Moderate
+11/30/2016,0.3,Drizzle,-0.1,Cold,               <31,Low,223.131,Moderate
+12/1/2016,0,No Rain,-2,Cold,               <31,Low,223.22,Moderate
+12/2/2016,0,No Rain,-3.2,Cold,               <31,Low,223.27,Moderate
+12/3/2016,0.4,Drizzle,-2.5,Cold,               <31,Low,223.334,Moderate
+12/4/2016,4,Drizzle,-0.8,Cold,               <31,Low,223.381,Moderate
+12/5/2016,0,No Rain,-0.8,Cold,32,Moderate,223.433,Moderate
+12/6/2016,17.5,Light Rain,-2.5,Cold,44,Moderate,223.477,Moderate
+12/7/2016,3.1,Drizzle,-6,Cold,37,Moderate,223.484,Moderate
+12/8/2016,0.2,Drizzle,-12.1,Very Cold,33,Moderate,223.326,Moderate
+12/9/2016,0,No Rain,-17.6,Very Cold,               <31,Low,222.874,Low
+12/10/2016,0,No Rain,-21.4,Extreme Cold,               <31,Low,222.908,Low
+12/11/2016,1,Drizzle,-19.9,Extreme Cold,               <31,Low,223.007,Moderate
+12/12/2016,0.5,Drizzle,-19.3,Extreme Cold,               <31,Low,223.015,Moderate
+12/13/2016,0,No Rain,-18.1,Very Cold,32,Moderate,223.031,Moderate
+12/14/2016,0.2,Drizzle,-20.5,Extreme Cold,               <31,Low,223.01,Moderate
+12/15/2016,0,No Rain,-20.9,Extreme Cold,               <31,Low,222.959,Low
+12/16/2016,0.3,Drizzle,-20.8,Extreme Cold,               <31,Low,222.917,Low
+12/17/2016,0,No Rain,-25.6,Extreme Cold,               <31,Low,223.033,Moderate
+12/18/2016,0.6,Drizzle,-22.5,Extreme Cold,               <31,Low,223.175,Moderate
+12/19/2016,7.5,Drizzle,-9.2,Very Cold,               <31,Low,223.18,Moderate
+12/20/2016,1.1,Drizzle,-4.4,Cold,43,Moderate,223.138,Moderate
+12/21/2016,1.1,Drizzle,-7.9,Cold,               <31,Low,223.115,Moderate
+12/22/2016,0.5,Drizzle,-4,Cold,               <31,Low,223.131,Moderate
+12/23/2016,0,No Rain,-9.7,Very Cold,37,Moderate,223.172,Moderate
+12/24/2016,0,No Rain,-17,Very Cold,33,Moderate,223.246,Moderate
+12/25/2016,6.9,Drizzle,-12.2,Very Cold,37,Moderate,223.323,Moderate
+12/26/2016,15.1,Light Rain,-11.3,Very Cold,37,Moderate,223.4,Moderate
+12/27/2016,0.4,Drizzle,-15.2,Very Cold,               <31,Low,223.428,Moderate
+12/28/2016,1.2,Drizzle,-5.9,Cold,32,Moderate,223.424,Moderate
+12/29/2016,0,No Rain,-8.2,Cold,35,Moderate,223.396,Moderate
+12/30/2016,0.7,Drizzle,-15,Very Cold,               <31,Low,223.366,Moderate
+,,,,,               ,,,
